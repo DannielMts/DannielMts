@@ -18,10 +18,8 @@
 ## Biografia
   - Formado em Sistemas de Informação
   - Atuo em Cloud Support
-  - Atuava como Analista de Suporte
   - Comunicativo
   - Espontâneo
-  - A procura de uma vaga como DEV
   
 ## Redes Sociais
   
